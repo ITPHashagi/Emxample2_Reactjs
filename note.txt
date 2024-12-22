@@ -1,0 +1,11 @@
+* Component
+    - Stateful = class
+    - Stateless = function
+
+== Buổi 2 ==
+* Rendering Element: {}
+* Handling event = onClick
+* State: Nếu State có giá trị thay đổi => thì Component re-render
+    - Const [Variable, method] = useState(defaultValue)
+        - defaultValue là giá trị mặc định cho Variable
+        - method để cập nhật giá trị mới cho Variable
